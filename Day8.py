@@ -14,3 +14,4 @@ for i in range(n):
             print("Not found")
     except:
         break
+"The first line contains an integer, , denoting the number of entries in the phone book.Each of the  subsequent lines describes an entry in the form of  space-separated values on a single line.
